@@ -1,0 +1,322 @@
+{
+  "users": [
+    {
+      "id": "001",
+      "login": "Anton",
+      "password": "qwerty123",
+      "registered_at": "2050-09-22",
+      "role_id": 0
+    },
+    {
+      "id": "0012",
+      "login": "Anton2",
+      "password": "qwerty123",
+      "registered_at": "2064-07-02 17:11",
+      "role_id": 2
+    },
+    {
+      "id": "acb9",
+      "login": "Sboev",
+      "password": "qwerty123",
+      "registered_at": "2064-07-02 17:11",
+      "role_id": 0
+    },
+    {
+      "id": "7671",
+      "login": "bloger",
+      "password": "qwe123",
+      "registered_at": "2047-05-23 08:30",
+      "role_id": 0
+    }
+  ],
+  "roles": [
+    {
+      "id": "0",
+      "name": "Администратор"
+    },
+    {
+      "id": "1",
+      "name": "Модератор"
+    },
+    {
+      "id": "2",
+      "name": "Читатель"
+    },
+    {
+      "id": "3",
+      "name": "Гость"
+    }
+  ],
+  "posts": [
+    {
+      "id": "002",
+      "title": "Текст-рыба",
+      "image_url": "https://fastly.picsum.photos/id/406/280/150.jpg?hmac=EtPUc0M8M8QBkDMHzzzFgXs9jhgJ0fvpWctk22EC_50",
+      "content": "тра тататущечки тат",
+      "published_at": "2045-06-21"
+    },
+    {
+      "id": "003",
+      "title": "рыбатекст",
+      "image_url": "https://fastly.picsum.photos/id/538/280/150.jpg?hmac=1DNLWWtGM4ByUHR-IcgrMSH8_gwyTSEvbo3IDqUfkyE",
+      "content": "Сайт рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмысленного текста рыбы на русском языке, а начинающему оратору отточить навык публичных выступлений в домашних условиях. При создании генератора мы использовали небезизвестный универсальный код речей. Текст генерируется абзацами случайным образом от двух до десяти предложений в абзаце, что позволяет сделать текст более привлекательным и живым для визуально-слухового восприятия.",
+      "published_at": "2045-06-21"
+    },
+    {
+      "id": "004",
+      "title": "Lorem Picsum",
+      "image_url": "https://fastly.picsum.photos/id/503/280/150.jpg?hmac=8TocW4F2VTN-EaEheNlvyKQlPl5xS7uUSJNDLiZEMMw",
+      "content": "Сайт рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмысленного текста рыбы на русском языке, а начинающему оратору отточить навык публичных выступлений в домашних условиях. При создании генератора мы использовали небезизвестный универсальный код речей. Текст генерируется абзацами случайным образом от двух до десяти предложений в абзаце, что позволяет сделать текст более привлекательным и живым для визуально-слухового восприятия.",
+      "published_at": "2045-06-21"
+    },
+    {
+      "id": "c240",
+      "image_url": "https://fastly.picsum.photos/id/1059/280/150.jpg?hmac=WgfMzj6NptMMOp53h_yQYiNetg7G7Qu8z_bH7nRDU2g",
+      "published_at": "2048-06-05 23:57",
+      "title": "Пробный заголовок",
+      "content": "арррррррррррррррррреап\nкккккккккккккккккккккк\nрррррррррррррррррррррррр"
+    },
+    {
+      "id": "e587",
+      "image_url": "https://fastly.picsum.photos/id/554/280/150.jpg?hmac=hjx98Yh0ZCnn0CdlqDVJB6FbtNLAMIR-nHNd-oHyjWU",
+      "published_at": "2048-04-14 03:16",
+      "title": "еще разок пробую",
+      "content": "<div style=\"margin: 0px 14.3906px 0px 28.7969px; padding: 0px; width: 436.797px; text-align: left; float: left; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px;\"><p style=\"margin: 0px 0px 15px; padding: 0px; text-align: justify;\"><strong style=\"margin: 0px; padding: 0px;\">Lorem Ipsum</strong> ;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><div style=\"margin: 0px 28.7969px 0px 14.3906px; padding: 0px; width: 436.797px; text-align: left; float: right; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px;\"><h2 style=\"margin: 0px 0px 10px; padding: 0px; font-weight: 400; font-family: DauphinPlain; font-size: 24px; line-height: 24px;\">Why do we use it?</h2><p style=\"margin: 0px 0px 15px; padding: 0px; text-align: justify;\">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p><br style=\"margin: 0px; padding: 0px; clear: both; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: center;\"><div style=\"margin: 0px 14.3906px 0px 28.7969px; padding: 0px; width: 436.797px; text-align: left; float: left; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px;\"><h2 style=\"margin: 0px 0px 10px; padding: 0px; font-weight: 400; font-family: DauphinPlain; font-size: 24px; line-height: 24px;\">Where does it come from?</h2><p style=\"margin: 0px 0px 15px; padding: 0px; text-align: justify;\">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p><p style=\"margin: 0px 0px 15px; padding: 0px; text-align: justify;\">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p><div style=\"margin: 0px 28.7969px 0px 14.3906px; padding: 0px; width: 436.797px; text-align: left; float: right; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px;\"><h2 style=\"margin: 0px 0px 10px; padding: 0px; font-weight: 400; font-family: DauphinPlain; font-size: 24px; line-height: 24px;\">Where can I get some?</h2><p style=\"margin: 0px 0px 15px; padding: 0px; text-align: justify;\">There are many variations of passages ;</p>"
+    },
+    {
+      "id": "f676",
+      "image_url": "https://fastly.picsum.photos/id/554/280/150.jpg?hmac=hjx98Yh0ZCnn0CdlqDVJB6FbtNLAMIR-nHNd-oHyjWU",
+      "published_at": "2039-04-19 05:22",
+      "title": "еще разок пробую",
+      "content": "&lt;span style=\"font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; font-size: 14px;\"&gt;roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.1&lt;/span&gt;"
+    },
+    {
+      "id": "a0eb",
+      "image_url": "https://fastly.picsum.photos/id/554/280/150.jpg?hmac=hjx98Yh0ZCnn0CdlqDVJB6FbtNLAMIR-nHNd-oHyjWU",
+      "published_at": "2062-09-15 19:38",
+      "title": "еще разок пробую",
+      "content": ""
+    },
+    {
+      "id": "a6ba",
+      "image_url": "https://fastly.picsum.photos/id/806/280/150.jpg?hmac=Ks-zoVn4u-OqwVIccXl--D5bzrN4bd0UK9H-xi-j5n0",
+      "published_at": "2056-03-29 02:01",
+      "title": "еще раз , уже третий",
+      "content": "апррррррррррррррррррррррррр\nапвввввввввввввв\nвыааааааааааааааааааа"
+    },
+    {
+      "id": "1483",
+      "image_url": "https://fastly.picsum.photos/id/473/280/150.jpg?hmac=rujdHqRjGTRS03lWAD8T4iaFAXIBxGbuU9wwsnqk7RM",
+      "published_at": "2050-01-02 21:58",
+      "title": "Полная проверка с РЕДИРЕКТ",
+      "content": "Полная проверка с РЕДИРЕКТ\nПолная проверка с РЕДИРЕКТ<br>\nПолная проверка с РЕДИРЕКТ<br>"
+    },
+    {
+      "id": "fe11",
+      "image_url": "https://fastly.picsum.photos/id/473/280/150.jpg?hmac=rujdHqRjGTRS03lWAD8T4iaFAXIBxGbuU9wwsnqk7RM",
+      "published_at": "2063-12-04 10:57",
+      "title": "с РЕДИРЕКТОМ",
+      "content": "с РЕДИРЕКТОМ\nс РЕДИРЕКТОМ<br>\nс РЕДИРЕКТОМ<br>"
+    },
+    {
+      "id": "42b3",
+      "image_url": "https://fastly.picsum.photos/id/473/280/150.jpg?hmac=rujdHqRjGTRS03lWAD8T4iaFAXIBxGbuU9wwsnqk7RM",
+      "published_at": "2040-08-22 20:03",
+      "title": "updatedPost.res",
+      "content": "тра та та тра тата мы везем с собой кота"
+    },
+    {
+      "id": "333",
+      "image_url": "https://fastly.picsum.photos/id/554/280/150.jpg?hmac=hjx98Yh0ZCnn0CdlqDVJB6FbtNLAMIR-nHNd-oHyjWU",
+      "published_at": "2048-04-14 03:16",
+      "title": "еще разок пробую",
+      "content": "<div style=\"margin: 0px 14.3906px 0px 28.7969px; padding: 0px; width: 436.797px; text-align: left; float: left; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px;\"><p style=\"margin: 0px 0px 15px; padding: 0px; text-align: justify;\"><strong style=\"margin: 0px; padding: 0px;\">Lorem Ipsum</strong> ;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><div style=\"margin: 0px 28.7969px 0px 14.3906px; padding: 0px; width: 436.797px; text-align: left; float: right; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px;\"><h2 style=\"margin: 0px 0px 10px; padding: 0px; font-weight: 400; font-family: DauphinPlain; font-size: 24px; line-height: 24px;\">Why do we use it?</h2><p style=\"margin: 0px 0px 15px; padding: 0px; text-align: justify;\">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p><br style=\"margin: 0px; padding: 0px; clear: both; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: center;\"><div style=\"margin: 0px 14.3906px 0px 28.7969px; padding: 0px; width: 436.797px; text-align: left; float: left; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px;\"><h2 style=\"margin: 0px 0px 10px; padding: 0px; font-weight: 400; font-family: DauphinPlain; font-size: 24px; line-height: 24px;\">Where does it come from?</h2><p style=\"margin: 0px 0px 15px; padding: 0px; text-align: justify;\">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p><p style=\"margin: 0px 0px 15px; padding: 0px; text-align: justify;\">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p><div style=\"margin: 0px 28.7969px 0px 14.3906px; padding: 0px; width: 436.797px; text-align: left; float: right; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px;\"><h2 style=\"margin: 0px 0px 10px; padding: 0px; font-weight: 400; font-family: DauphinPlain; font-size: 24px; line-height: 24px;\">Where can I get some?</h2><p style=\"margin: 0px 0px 15px; padding: 0px; text-align: justify;\">There are many variations of passages ;</p>"
+    },
+    {
+      "id": "444",
+      "image_url": "https://fastly.picsum.photos/id/554/280/150.jpg?hmac=hjx98Yh0ZCnn0CdlqDVJB6FbtNLAMIR-nHNd-oHyjWU",
+      "published_at": "2039-04-19 05:22",
+      "title": "еще разок пробую",
+      "content": "&lt;span style=\"font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; font-size: 14px;\"&gt;roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.1&lt;/span&gt;"
+    },
+    {
+      "id": "555",
+      "image_url": "https://fastly.picsum.photos/id/554/280/150.jpg?hmac=hjx98Yh0ZCnn0CdlqDVJB6FbtNLAMIR-nHNd-oHyjWU",
+      "published_at": "2062-09-15 19:38",
+      "title": "еще разок пробую",
+      "content": ""
+    },
+    {
+      "id": "666",
+      "image_url": "https://fastly.picsum.photos/id/806/280/150.jpg?hmac=Ks-zoVn4u-OqwVIccXl--D5bzrN4bd0UK9H-xi-j5n0",
+      "published_at": "2056-03-29 02:01",
+      "title": "еще раз , уже третий",
+      "content": "апррррррррррррррррррррррррр\nапвввввввввввввв\nвыааааааааааааааааааа"
+    },
+    {
+      "id": "777",
+      "image_url": "https://fastly.picsum.photos/id/473/280/150.jpg?hmac=rujdHqRjGTRS03lWAD8T4iaFAXIBxGbuU9wwsnqk7RM",
+      "published_at": "2050-01-02 21:58",
+      "title": "Полная проверка с РЕДИРЕКТ",
+      "content": "Полная проверка с РЕДИРЕКТ\nПолная проверка с РЕДИРЕКТ<br>\nПолная проверка с РЕДИРЕКТ<br>"
+    },
+    {
+      "id": "888",
+      "image_url": "https://fastly.picsum.photos/id/473/280/150.jpg?hmac=rujdHqRjGTRS03lWAD8T4iaFAXIBxGbuU9wwsnqk7RM",
+      "published_at": "2063-12-04 10:57",
+      "title": "с РЕДИРЕКТОМ",
+      "content": "с РЕДИРЕКТОМ\nс РЕДИРЕКТОМ<br>\nс РЕДИРЕКТОМ<br>"
+    },
+    {
+      "id": "999",
+      "image_url": "https://fastly.picsum.photos/id/473/280/150.jpg?hmac=rujdHqRjGTRS03lWAD8T4iaFAXIBxGbuU9wwsnqk7RM",
+      "published_at": "2040-08-22 20:03",
+      "title": "updatedPost.res",
+      "content": "тра та та тра тата мы везем с собой кота"
+    }
+  ],
+  "comments": [
+    {
+      "id": "32a8",
+      "autor_id": "001",
+      "post_id": "c240",
+      "published_at": "2035-10-09 16:08",
+      "content": "ывапуыаыу"
+    },
+    {
+      "id": "8560",
+      "autor_id": "001",
+      "post_id": "c240",
+      "published_at": "2046-06-26 06:11",
+      "content": "ыауаыауыаы"
+    },
+    {
+      "id": "c4a5",
+      "autor_id": "001",
+      "post_id": "f676",
+      "published_at": "2063-01-25 05:04",
+      "content": "drgdrgdrg"
+    },
+    {
+      "id": "f1aa",
+      "autor_id": "001",
+      "post_id": "42b3",
+      "published_at": "2052-07-22 21:46",
+      "content": "szfszcszcsc"
+    },
+    {
+      "id": "daa9",
+      "autor_id": "001",
+      "post_id": "42b3",
+      "published_at": "2039-07-18 23:47",
+      "content": "zsczsczcszczsczc"
+    },
+    {
+      "id": "163e",
+      "autor_id": "001",
+      "post_id": "003",
+      "published_at": "2036-10-31 19:54",
+      "content": "vrgdrgdrgdr"
+    },
+    {
+      "id": "65b1",
+      "autor_id": "001",
+      "post_id": "003",
+      "published_at": "2036-04-23 05:01",
+      "content": "fsfsfdsfdsfs"
+    },
+    {
+      "id": "c70d",
+      "autor_id": "001",
+      "post_id": "003",
+      "published_at": "2041-12-08 10:58",
+      "content": "sdccscsdcscsd"
+    },
+    {
+      "id": "bcdd",
+      "autor_id": "001",
+      "post_id": "003",
+      "published_at": "2048-02-24 15:33",
+      "content": "------------------------------"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "dcc5",
+      "hash": "0.42171924361223345201210577215533703565597534179688",
+      "user": {
+        "id": "001",
+        "login": "Anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      }
+    },
+    {
+      "id": "7de3",
+      "hash": "0.52270832528587218845927964139264076948165893554688",
+      "user": {
+        "id": "001",
+        "login": "Anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      }
+    },
+    {
+      "id": "022b",
+      "hash": "0.92281595720349463007892154564615339040756225585938",
+      "user": {
+        "id": "001",
+        "login": "Anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      }
+    },
+    {
+      "id": "b216",
+      "hash": "0.10007778008001833036644256935687735676765441894531",
+      "user": {
+        "id": "001",
+        "login": "Anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      }
+    },
+    {
+      "id": "7ee8",
+      "hash": "0.78377268805705146981210873491363599896430969238281",
+      "user": {
+        "id": "001",
+        "login": "Anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      }
+    },
+    {
+      "id": "5d28",
+      "hash": "0.48561793230372485297152707062195986509323120117188",
+      "user": {
+        "id": "001",
+        "login": "Anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      }
+    },
+    {
+      "id": "613b",
+      "hash": "0.05030847292225115729991102853091433644294738769531",
+      "user": {
+        "id": "001",
+        "login": "Anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      }
+    }
+  ]
+}
